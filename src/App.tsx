@@ -5,7 +5,7 @@ import {
   useState,
   type FormEvent,
   type ReactNode,
-} from "react";
+} from "react"
 import {
   NavLink,
   Route,
